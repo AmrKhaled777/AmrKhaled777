@@ -2,8 +2,7 @@
 <h3 align="center">Data Analyst | AI Enthusiast | Business Intelligence Learner</h3>
 
 <p align="center">
-I enjoy turning raw data into meaningful insights through data analysis, visualization, and AI-powered solutions.
-Currently focusing on building real-world projects using Excel, SQL, Power BI, Python, and Machine Learning.
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 </p>
 
 ---
