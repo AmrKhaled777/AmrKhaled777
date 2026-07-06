@@ -107,16 +107,6 @@ Always Learning • Always Building 🚀
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌍 Connect with Me
 
 <p align="center">
@@ -134,10 +124,6 @@ Always Learning • Always Building 🚀
 ---
 
 <p align="center">
-
-### 💡 Quote
-
-> **"Turning Data into Insights, and Insights into Decisions."**
 
 ⭐ Thanks for visiting my profile!
 
